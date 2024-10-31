@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--[ReadMe.md](https://github.com/user-attachments/files/17589870/ReadMe.md)# 💫 About Me:
+# 💫 About Me:
 I am a B-tech Final year student <br>Frontend- Developer <br>currently learn  Mern full-stack web development
 
 
@@ -26,4 +24,4 @@ I am a B-tech Final year student <br>Frontend- Developer <br>currently learn  Me
 ---
 [![](https://visitcount.itsvg.in/api?id=crazyRaturi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
