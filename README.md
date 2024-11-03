@@ -18,7 +18,7 @@ I am a B-tech Final year student <br>Frontend- Developer <br>currently learn  Me
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-##Holopin board
+Holopin board:
 [![An image of @crazyraturi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crazyraturi)](https://holopin.io/@crazyraturi)
 
 ### 🔝 Top Contributed Repo
